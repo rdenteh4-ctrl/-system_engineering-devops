@@ -1,1 +1,1 @@
-# This project contains basic Linux shell scripts for DevOps training.
+r e a d m e
